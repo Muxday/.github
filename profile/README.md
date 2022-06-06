@@ -12,7 +12,7 @@ We are Mux LLC.
 
 <a href="https://facebook.com/MuxWorks" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="" /></a>
 <a href="https://twitter.com/MuxLLC" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/company/muxtech/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/company/muxworks/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Workplace policy
 > Working at Mux is supposed to be like working for "that dream company", amplified with the luxury of the perfect atmosphere to make you feel more like enjoying a BBQ party with friends and family than sitting through prolonged and stressful duties.
