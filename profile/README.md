@@ -28,7 +28,6 @@ We are Mux LLC.
 
 ## Information
 - [Click here for server statuses](https://stats.uptimerobot.com/1MAlzt6El0)
-- [Our website (currently under construction)](https://muxworks.com)
-- [Asenturisk's website (conjoined organization)](https://asenturisk.com)
+- [Our website (currently under construction)](https://mux.company)
 
 
